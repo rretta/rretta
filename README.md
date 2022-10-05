@@ -1,7 +1,7 @@
 # 💫 About Me:
-<br>
-# hi, Ezequiel here :)<br>🌱 
-# I’m currently learning NodeJS<br>
+
+# Hi, Ezequiel here :) 
+# 🌱 I’m currently learning NodeJS
 
 
 # 💻 Tech Stack:
