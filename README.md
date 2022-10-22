@@ -1,4 +1,4 @@
-# Hi, Ezequiel here, currently learning NodeJS :)
+# Hi, Ezequiel here
 
 
 # 💻 Tech Stack:
